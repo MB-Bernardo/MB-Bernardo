@@ -14,6 +14,7 @@
 <div align="center">
 
 !Dart
+
 !Flutter
 
 </div>
@@ -47,13 +48,6 @@
 <p align="center">
 Sou apaixonado por tecnologia e desenvolvimento mobile.
 Atualmente focado em Flutter e Dart, buscando crescer profissionalmente, aprender novas tecnologias e contribuir com projetos cada vez maiores 
-</p>
-
----
-
- GitHub Activity,
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MB-Bernardo&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
