@@ -5,12 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NlbTZxZW85b3Q0YjV0aGx6a3lqM3l4b2t1bXJ1YmI3a2QxZXB4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="500px">
-</p>
-<p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500px">
 </p>
-
 
 ---
 
