@@ -1,7 +1,7 @@
-<h1 align="center"> Olá, eu sou o Netto</h1>
+<h1 align="center">🎮 Olá, eu sou o Netto 👾</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=26&center=true&vCenter=true&width=700&lines=Desenvolvedor+Mobile;Flutter+%7C+Dart;Em+busca+de+estágio+e+novas+oportunidades;Sempre+evoluindo+no+mundo+mobile" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=26&center=true&vCenter=true&width=700&lines=Desenvolvedor+Mobile;📱+Flutter+%7C+💙+Dart;Em+busca+de+estágio+e+novas+oportunidades;Sempre+evoluindo+no+mundo+mobile+🚀" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ---
 
- Tecnologias,
+🚀 Tecnologias & Ferramentas
 <div align="center">
 
 !Dart
@@ -21,15 +21,16 @@
 
 ---
 
- Objetivos,
- Desenvolvimento Mobile
- Evoluindo com Flutter e Dart
- Criando aplicações modernas e responsivas
- Em busca de estágio e oportunidades na área mobile
+🎯 Objetivos
+📱 Desenvolvimento Mobile
+🚀 Evoluindo diariamente com Flutter e Dart
+🎮 Criando aplicações modernas e responsivas
+💼 Em busca de estágio e oportunidades
+⚡ Sempre aprendendo novas tecnologias
 
 ---
 
- Estatísticas GitHub,
+📊 Estatísticas GitHub
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MB-Bernardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -44,14 +45,26 @@
 
 ---
 
- Sobre mim,
+🌌 Sobre mim
 <p align="center">
-Sou apaixonado por tecnologia e desenvolvimento mobile.
-Atualmente focado em Flutter e Dart, buscando crescer profissionalmente, aprender novas tecnologias e contribuir com projetos cada vez maiores 
+💻 Apaixonado por tecnologia e programação mobile <br>
+📱 Focado em desenvolvimento com Flutter <br>
+💙 Estudando Dart e criando novos projetos <br>
+🚀 Buscando evolução constante como desenvolvedor <br>
+🎯 Em busca da primeira oportunidade na área tech
 </p>
+
+---
+<div align="center">
+
+!Open To Work
+
+!Learning
+
+</div>
 
 ---
 
 <p align="center">
- From <a href="https://github.com/MB-Bernardo">MB-Bernardo</a>
+⭐ From <a href="https://github.com/MB-Bernardo">MB-Bernardo</a>
 </p>
